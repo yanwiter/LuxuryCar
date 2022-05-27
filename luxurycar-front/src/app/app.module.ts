@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 //Import internos
 
 import { AppComponent } from './app.component';
-import { HomeComponent } from './home/home.component';
+import { HomeComponent } from './components/home/home.component';
 
 //Import para frameworks
 
@@ -14,7 +14,7 @@ import { ToastrModule } from 'ngx-toastr';
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
