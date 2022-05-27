@@ -10,11 +10,13 @@ import { HomeComponent } from './components/home/home.component';
 //Import para frameworks
 
 import { ToastrModule } from 'ngx-toastr';
+import { NavbarhomeComponent } from './components/navbarhome/navbarhome.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
+    NavbarhomeComponent,
   ],
   imports: [
     BrowserModule,
