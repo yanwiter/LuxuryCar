@@ -94,7 +94,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ngnode_modules/ngx-toastr/toastr.css"
             ],
             "scripts": []
           }

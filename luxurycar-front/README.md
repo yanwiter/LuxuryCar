@@ -1,3 +1,16 @@
+# Comandos utilizados na instalação
+npm i ngx-toastr (para mensagens)
+npm install ngx-toastr --save
+npm install @angular/animations --save
+npm i bootstrap@5.2.0-beta1
+npm install tslib
+
+
+
+
+
+
+
 # LuxurycarFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
