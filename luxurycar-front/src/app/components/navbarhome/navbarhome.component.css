@@ -1,0 +1,30 @@
+.principal{
+  width: 100%;
+  right: 20%;
+  padding-top: 1%;
+  background-color: #010B40;
+}
+
+.principal::after{
+  width: 100%;
+  right: 20%;
+  padding-top: 1%;
+  background-color: #010B40;
+}
+
+.principal::before{
+  width: 100%;
+  right: 20%;
+  padding-top: 1%;
+  background-color: #05C7F2;
+}
+
+.btn {
+  background-color: #010B40;
+  color: white;
+}
+
+.btn :before{
+  background-color: #05C7F2;
+  color: white;
+}
