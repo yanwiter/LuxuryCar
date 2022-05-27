@@ -1,8 +1,8 @@
 .principal{
   width: 100%;
   right: 20%;
-  padding-top: 1%;
   background-color: #010B40;
+  color: #010B40;
 }
 
 .principal:after{

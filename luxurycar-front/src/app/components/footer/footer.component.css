@@ -1,0 +1,16 @@
+.h6Footer {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.footer {
+  color: white;
+  width: 18%;
+  margin-left: 40%;
+  margin-top: 10%;
+  border-radius: 10%;
+}
+
+.icones {
+  width: 100%;
+}
